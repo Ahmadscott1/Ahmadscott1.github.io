@@ -125,3 +125,59 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.employment-section {
+    margin: auto;
+    max-width: 800px;
+    padding: 20px;
+    text-align: left;
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.employment-section h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #2c3e50;
+}
+
+.job {
+    margin: 20px 0;
+    padding: 15px;
+    border-left: 5px solid #3498db;
+    background-color: #f4f6f7;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.job h2 {
+    font-size: 22px;
+    color: #2980b9;
+    margin-bottom: 5px;
+}
+
+.job p {
+    font-size: 16px;
+    color: #34495e;
+}
+
+.job ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #2c3e50;
+    font-size: 16px;
+}
+
+.job ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
